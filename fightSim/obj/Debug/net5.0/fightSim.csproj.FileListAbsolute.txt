@@ -1,0 +1,16 @@
+C:\programmering\fightSim\fightSim\obj\Debug\net5.0\fightSim.csprojAssemblyReference.cache
+C:\programmering\fightSim\fightSim\obj\Debug\net5.0\fightSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\programmering\fightSim\fightSim\obj\Debug\net5.0\fightSim.AssemblyInfoInputs.cache
+C:\programmering\fightSim\fightSim\obj\Debug\net5.0\fightSim.AssemblyInfo.cs
+C:\programmering\fightSim\fightSim\obj\Debug\net5.0\fightSim.csproj.CoreCompileInputs.cache
+C:\programmering\fightSim\fightSim\bin\Debug\net5.0\fightSim.exe
+C:\programmering\fightSim\fightSim\bin\Debug\net5.0\fightSim.deps.json
+C:\programmering\fightSim\fightSim\bin\Debug\net5.0\fightSim.runtimeconfig.json
+C:\programmering\fightSim\fightSim\bin\Debug\net5.0\fightSim.runtimeconfig.dev.json
+C:\programmering\fightSim\fightSim\bin\Debug\net5.0\fightSim.dll
+C:\programmering\fightSim\fightSim\bin\Debug\net5.0\ref\fightSim.dll
+C:\programmering\fightSim\fightSim\bin\Debug\net5.0\fightSim.pdb
+C:\programmering\fightSim\fightSim\obj\Debug\net5.0\fightSim.dll
+C:\programmering\fightSim\fightSim\obj\Debug\net5.0\ref\fightSim.dll
+C:\programmering\fightSim\fightSim\obj\Debug\net5.0\fightSim.pdb
+C:\programmering\fightSim\fightSim\obj\Debug\net5.0\fightSim.genruntimeconfig.cache
